@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{041f358b-6746-4e5f-ace4-c27de41ea765}</ProjectGuid>
-    <RootNamespace>DataStructureStudy</RootNamespace>
+    <ProjectGuid>{4d6eed37-a1f4-49ba-9d60-5614c3c6872e}</ProjectGuid>
+    <RootNamespace>MyArray</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="DataStructureStudy.cpp" />
+    <ClCompile Include="MyArray.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
